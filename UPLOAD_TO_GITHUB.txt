@@ -1,0 +1,12 @@
+GitHub Pages upload instructions
+
+Upload the files in this folder to the repository root:
+- All .html files
+- styles.css
+- script.js
+- All .jpg images and .mp4 videos
+
+Do not upload the files from the parent folder.
+Do not create a github subfolder in the repository.
+The image and video files must be in the repository root next to index.html.
+Image references in these files are relative, for example: mesh_8.jpg
