@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bbsshh7979.github.io/perfect2025/sitemap.xml
